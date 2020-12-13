@@ -1,0 +1,22 @@
+{
+  "name": "Library1",
+  "version": "0.1.0",
+  "summary": "A short description of Library1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/antosha.1998.ru@mail.ru/Library1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "antosha.1998.ru@mail.ru": "Anton_Babich@epam.com"
+  },
+  "source": {
+    "git": "https://github.com/antosha.1998.ru@mail.ru/Library1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Library1/Classes/**/*"
+}
